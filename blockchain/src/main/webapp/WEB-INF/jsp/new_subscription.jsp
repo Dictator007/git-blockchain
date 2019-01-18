@@ -55,10 +55,12 @@ body {
 <div id="messages1" class="col-md-12" ></div>
 
 <div id="blockIndex" class="col-md-6" style="border:0px solid black;overflow:hidden;height:400px;width:30%;margin-left:2%;margin-top:20px;background: #1abc8f;text-align: center;color:black"></div>
+<div id="messages2" class="col-md-6" style="border:0px solid black;overflow:hidden;height:400px;width:40%;margin-left:2%;margin-top:15%; text-align: center;">
 
-<div id="messages2" class="col-md-6" ></div>
-  
-  </div>
+<p> <h2> These are the index for the New Subscriber's Block </h2></p>
+
+</div>
+
 </div>
 </body>
 </html>
